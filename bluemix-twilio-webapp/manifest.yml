@@ -1,7 +1,7 @@
 applications:
-- name: bluemix_java_sample_twilio_demo_app
+- name: bluemix_java_sample_twilio_demo_app2
   memory: 512M
   instances: 1
-  host: bluemix_java_sample_twilio_demo_app
+  host: bluemix_java_sample_twilio_demo_app2
   domain: mybluemix.net
   path: bluemix-java-sample-twilio.war
